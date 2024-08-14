@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#display  listening port , and  includes  listening   socket  as  well
+# +  the PID and  name   of  the  programe to  switch  the  socket.
+
+netstat -l --program
